@@ -15,7 +15,7 @@ A modern weather web application with dynamic UI themes, animations, and offline
 - JavaScript (Vanilla)
 
 ## 🔗 Live Demo
-(Enable GitHub Pages to see live link)
+https://sumedhaa05.github.io/PRODIGY_WD_05/
 
 ## 📌 Note
 Currently running in offline mode using mock weather data.
